@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768906931310",
+    "firebase_url": "https://prohelika-ffb5a.firebaseio.com",
+    "project_id": "prohelika-ffb5a",
+    "storage_bucket": "prohelika-ffb5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768906931310:android:f617e277081bd7af",
+        "android_client_info": {
+          "package_name": "com.asus.technomania.prohelika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768906931310-b499ifj0og3uh2fnls39g2f5i9lmblco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asus.technomania.prohelika",
+            "certificate_hash": "bb3ec4b79100c91ba2ac3a90ed323f0d7f95d621"
+          }
+        },
+        {
+          "client_id": "768906931310-49221hep1b55j6o194m7bnmqdsdi0eof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZvhrfp-rRbyRRPctENqaK-hclCyHMMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768906931310-49221hep1b55j6o194m7bnmqdsdi0eof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
